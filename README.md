@@ -53,4 +53,4 @@ This project is open-source and available under the [MIT License](https://openso
 
 ## Contact
 
-For questions, suggestions, or bug reports, please open an issue in the GitHub repository. Your feedback is important to improve this tool.
+For questions, suggestions, or bug reports, please [open an issue in the GitHub repository](https://github.com/thdelmas/EXIF-Date-Modifier/issues/new). Your feedback is important to improve this tool.
